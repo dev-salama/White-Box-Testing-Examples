@@ -1,6 +1,5 @@
 ﻿# White Box Testing Examples
 ### White-Box-Testing-Examples in java using junit
-VIDEO: https://youtu.be/1fjpSI2nl28
 ## THE EXAMPLES
 
 1.	Replace sequences of blank characters with a single blank character.
